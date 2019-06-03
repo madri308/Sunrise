@@ -38,7 +38,7 @@ import java.awt.event.ActionListener;
  */
 public class Prueba extends MapView {
 
-    private static final String INITIAL_LOCATION = "Costa Rica";
+    private static final String INITIAL_LOCATION = "Colombia";
 
     private OptionsWindow optionsWindow;
 
